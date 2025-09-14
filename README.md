@@ -1,2 +1,2 @@
-# Electric-pot-Invoice
-Android (Kotlin) + iOS (Swift) 發票紀錄 App
+# 電鍋發票版本紀錄
+--我
