@@ -1,0 +1,69 @@
+# ============================
+# macOS 系統檔案
+# ============================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.lock
+
+# ============================
+# Xcode / iOS
+# ============================
+build/
+DerivedData/
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+*.hmap
+
+# Swift Package Manager
+/.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# ============================
+# Android / Kotlin
+# ============================
+.gradle/
+build/
+local.properties
+*.iml
+*.hprof
+.idea/
+
+# Android Studio Captures
+captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services
+google-services.json
+app/google-services.json
+
+# ============================
+# Logs
+# ============================
+*.log
